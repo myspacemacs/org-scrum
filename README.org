@@ -12,9 +12,8 @@
  - [[Key bindings][Key bindings]]
 
 * Description
-This layer does wonderful things:
-  - thing01
-
+This layer does wonderful things for https://github.com/ianxm/emacs-scrum :
+  - a scrum board made up of the tasks arranged in columns based on their TODO status. scrum board labels can be plain text or links to the items in the tree.
 * Install
 To use this contribution add it to your =~/.spacemacs=
 
@@ -24,6 +23,7 @@ To use this contribution add it to your =~/.spacemacs=
 
 * Key bindings
 
-| Key Binding     | Description    |
-|-----------------+----------------|
-| ~<SPC> x x x~   | Does thing01   |
+| Key Binding  | Description                       |
+|--------------+-----------------------------------|
+| ~<SPC> o r ~ | Update all blocks in the org file |
+|              |                                   |
